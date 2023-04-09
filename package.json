@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongodb": "^4.7.0",
+      "mongoose": "^6.4.0"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "name": "Social-Network-API",
+    "description": "",
+    "version": "1.0.0",
+    "main": "server.js",
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/awele1111/Social-Network-API.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/awele1111/Social-Network-API/issues"
+    },
+    "homepage": "https://github.com/awele1111/Social-Network-API#readme"
+  }
